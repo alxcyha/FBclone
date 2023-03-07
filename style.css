@@ -529,17 +529,20 @@ nav .rightmobile i{
 }
 
 .main .center .my_post .post_bottom{
-    width: 100%;
+    width: 95%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 5px auto;
+}
+.post_bottom div{
+    width: auto;
 }
 
 .main .center .my_post .post_bottom .post_icon{
     display: flex;
     align-items: center;
     margin: 0 auto;
-    padding: 7px 40px;
+    padding: 5px 40px;
     cursor: pointer;
 }
 
