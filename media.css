@@ -40,7 +40,7 @@
     }
 
 }
-@media (min-width:769px) and (max-width:1023px){
+/* @media (min-width:769px) and (max-width:1023px){
    .mobile .right #prof,#notif{
         display: none;
     }
@@ -59,7 +59,7 @@
     .center .top .buttons{
         display: none;
     }
-}
+} */
 @media (min-width:1024px){
      .main .center{
         width:50%;

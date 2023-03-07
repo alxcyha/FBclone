@@ -95,17 +95,24 @@ nav .rightmobile i{
     font-size: 20px;
     margin-left: 8px;
     cursor: pointer;
+    
 }
 .mobile2 {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%px;
-    height: 20px;
+    height: 30px;
+    border-bottom: 1px solid #cccccc;
+    background: #fff;
+    top: 0;
+    z-index: 1000;
+
+    
 }
 .mobile2 #profmobile{
-    width: 40px;
-    height: 40px;
+    width: 25px;
+    height: 25px;
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
@@ -124,6 +131,7 @@ nav .rightmobile i{
     margin-right: 10px;
     line-height: 45px;
     cursor: pointer;
+    color:#cccccc;
 }
 
 /* main content left */
