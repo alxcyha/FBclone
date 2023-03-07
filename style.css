@@ -562,7 +562,11 @@ nav .rightmobile i{
     color: #27cc37;
     margin-right: 8px;
 }
-
+.main .center .mypostmobile i{
+    font-size: 23px;
+    color: #27cc37;
+    margin-right: 8px;
+}
 .main .center .my_post .post_bottom .post_icon i.yellow{
     font-size: 23px;
     color: #f7b928;

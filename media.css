@@ -1,4 +1,12 @@
+
 @media (max-width: 768px) {
+    nav {
+        width: 165%;
+        
+    }
+    .mobile2{
+        width: 165%;
+    }
     .main .leftC {
         display: none;
     }
