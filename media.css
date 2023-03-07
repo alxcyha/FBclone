@@ -23,6 +23,9 @@
     .main .center .my_post{
         display:none;
     }
+    .main .center{
+        width: fit-content;
+    }
     .main .top .postmobile{
         width: 100%;
         height: 300px;
